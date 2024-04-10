@@ -1,0 +1,7 @@
+Practice_1
+a -> 5thD Vector, b -> 10thD vector
+
+b = (0, a) -> true but not clear
+a = (0, b) -> false 
+b = (0, a, 0) -> true but not clear
+a = 0 = b -> false
